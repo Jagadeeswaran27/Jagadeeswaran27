@@ -1,3 +1,5 @@
 Hey Recruiter/Developer welcome to my github, hope you like my work
 
-![image](https://github.com/Jagadeeswaran27/Jagadeeswaran27/assets/118825972/f66efac4-992a-4146-b69d-61dc4c78400d)
+<div>
+  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" height=100px width=100px/>
+</div>
