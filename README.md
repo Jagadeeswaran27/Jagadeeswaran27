@@ -1,3 +1,8 @@
+# Hey Recruiter/Developer! 👋 Welcome to My GitHub!
+
+## About Me
+I'm passionate about crafting exceptional web experiences and turning ideas into reality. With a strong foundation in:
+
 ## My Skills 
 
 <div display="flex">
@@ -10,13 +15,11 @@
 <img src="https://img.shields.io/badge/REST_API-E0274C?style=for-the-badge&logo=restapi" alt="REST API" />
 
 </div>
-**I'm proficient in:**
 
-* Building interactive web applications with JavaScript and React
-* Designing stylish and responsive user interfaces using CSS
-* Working with relational databases using SQL
-* Managing dependencies and packages with npm
-* Collaborating effectively using Git
-* Developing RESTful APIs for seamless data exchange
+## Get in Touch
+I'm always open to collaboration and new opportunities. Feel free to reach out:
 
-**Always eager to learn and stay updated with the latest advancements!**
+- 📧 Email: jagadeeswaran.work@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/jagadeeswaran-m-59a269287
+
+
