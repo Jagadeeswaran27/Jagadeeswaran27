@@ -17,6 +17,7 @@ src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=h
 <img src="https://img.shields.io/badge/REST_API-E0274C?style=for-the-badge&logo=restapi" alt="REST API" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </div>
 
 ## Get in Touch
