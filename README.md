@@ -10,9 +10,10 @@ I'm passionate about crafting exceptional web experiences and turning ideas into
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
- <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
 <img src="https://img.shields.io/badge/CSS-154360?style=for-the-badge&logo=css3" alt="CSS" />
 <img src="https://img.shields.io/badge/SQL-3F57C1?style=for-the-badge&logo=sql" alt="SQL" />
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-6EB424?style=for-the-badge&logo=npm" alt="npm" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
