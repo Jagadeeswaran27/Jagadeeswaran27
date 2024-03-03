@@ -15,6 +15,7 @@ I'm passionate about crafting exceptional web experiences and turning ideas into
 <img src="https://img.shields.io/badge/SQL-3F57C1?style=for-the-badge&logo=sql" alt="SQL" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-6EB424?style=for-the-badge&logo=npm" alt="npm" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/REST_API-E0274C?style=for-the-badge&logo=restapi" alt="REST API" />
