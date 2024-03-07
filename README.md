@@ -24,6 +24,12 @@ I'm passionate about crafting exceptional web experiences and turning ideas into
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </div>
 
+## Explore my Projects
+Project Manager App : https://project-management-jags.netlify.app/
+Quiz App : https://quiz-app-jagadeeswaran.netlify.app/
+Shopping Cart(Basic) : https://shopping-cart-jags.netlify.app/
+Tv-Show App : https://tv-show-jags.netlify.app/
+
 ## Get in Touch
 I'm always open to collaboration and new opportunities. Feel free to reach out:
 
