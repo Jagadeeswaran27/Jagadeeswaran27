@@ -11,6 +11,7 @@ I'm passionate about crafting exceptional web experiences and turning ideas into
 <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-154360?style=for-the-badge&logo=css3" alt="CSS" />
 <img src="https://img.shields.io/badge/SQL-3F57C1?style=for-the-badge&logo=sql" alt="SQL" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
