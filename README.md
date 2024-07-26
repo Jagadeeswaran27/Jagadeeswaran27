@@ -1,7 +1,7 @@
 # Hey Recruiter/Developer! 👋 Welcome to My GitHub!
 
 ## About Me
-I'm passionate about crafting exceptional web experiences and turning ideas into reality. With a strong foundation in:
+I'm passionate about crafting exceptional web and app experiences and turning ideas into reality. With a strong foundation in:
 
 ## My Skills 
 
