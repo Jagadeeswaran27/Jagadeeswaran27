@@ -7,7 +7,7 @@ Passionate about crafting exceptional web and mobile experiences, I specialize i
 
 ### Frontend Development  
 - **Languages & Frameworks**: JavaScript, TypeScript, React.js, Next.js, React Native, Flutter  
-- **State Management**: Redux, Context API  
+- **State Management**: Redux, Context API, Providers
 - **Styling & UI Libraries**: Tailwind CSS, CSS3, HTML5  
 
 ### Backend Development  
