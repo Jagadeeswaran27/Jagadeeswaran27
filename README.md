@@ -26,4 +26,3 @@ I'm always open to collaboration, exciting projects, and new opportunities. Feel
 📧 **Email**: jagadeeswaran.work@gmail.com  
 💼 **LinkedIn**: [Jagadeeswaran M](https://www.linkedin.com/in/jagadeeswaran-m-59a269287/)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jagadeeswaran27)  
