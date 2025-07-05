@@ -24,5 +24,4 @@ Passionate about crafting exceptional web and mobile experiences, I specialize i
 I'm always open to collaboration, exciting projects, and new opportunities. Feel free to reach out!  
 
 📧 **Email**: jagadeeswaran.work@gmail.com  
-💼 **LinkedIn**: [Jagadeeswaran M](https://www.linkedin.com/in/jagadeeswaran-m-59a269287/)  
 
