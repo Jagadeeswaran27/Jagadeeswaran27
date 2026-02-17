@@ -28,7 +28,7 @@ I focus on transforming complex problems into clean, maintainable systems using 
 |----------|-------------|
 | **Frontend** | JavaScript, TypeScript, React.js, Next.js, React Native, Flutter, Tailwind CSS, HTML5, CSS3, Redux, Context API |
 | **Backend** | Node.js, Express.js, FastAPI, REST APIs, GraphQL, WebSockets, Microservices Architecture |
-| **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Prisma ORM, Sequelize, Redis |
+| **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Prisma ORM, Redis |
 | **AI & Intelligent Systems** | LangChain, LangGraph, LangSmith, Retrieval-Augmented Generation (RAG), LLM Integrations |
 | **DevOps & Engineering** | Docker, CI/CD, GitHub Actions, Clean Architecture, Dependency Injection, System Design Principles |
 
