@@ -1,27 +1,62 @@
-# Hey Recruiter/Developer! 👋 Welcome to My GitHub!  
+# 𝙹𝚊𝚐𝚊𝚍𝚎𝚎𝚜𝚠𝚊𝚛𝚊𝚗 𝙼  
+### Full-Stack Developer • AI Systems Builder  
 
-## About Me  
-Passionate about crafting exceptional web and mobile experiences, I specialize in turning innovative ideas into scalable solutions. With expertise in full-stack development, I focus on building robust, user-friendly applications that enhance user engagement and business efficiency.  
+---
 
-## Technical Skills  
+## About Me
 
-### Frontend Development  
-- **Languages & Frameworks**: JavaScript, TypeScript, React.js, Next.js, React Native, Flutter  
-- **State Management**: Redux, Context API, Providers
-- **Styling & UI Libraries**: Tailwind CSS, CSS3, HTML5  
+I build scalable applications that (usually) don’t break in production.  
+When they do, I fix them fast - and redesign them so they don’t break again.
 
-### Backend Development  
-- **Languages & Frameworks**: Node.js, Express.js  
-- **Database Management**: SQL, MySQL, MongoDB, Sequelize  
-- **Authentication & Security**: JWT, Firebase  
+I focus on transforming complex problems into clean, maintainable systems using strong architectural principles and modern tooling.
 
-### Other Technologies  
-- **API Development**: RESTful APIs, GraphQL  
-- **Version Control**: Git, GitHub  
-- **Package Management**: npm  
+---
 
-## Let's Connect  
-I'm always open to collaboration, exciting projects, and new opportunities. Feel free to reach out!  
+## What I Care About
 
-📧 **Email**: jagadeeswaran.work@gmail.com  
+- Designing systems that scale beyond “it works on my machine”
+- Writing clean architecture instead of spaghetti architecture
+- Building real-time systems that are actually real-time
+- Integrating AI in practical, production-ready ways
+- Shipping systems built for long-term maintainability
 
+---
+
+## Technical Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Frontend** | JavaScript, TypeScript, React.js, Next.js, React Native, Flutter, Tailwind CSS, HTML5, CSS3, Redux, Context API |
+| **Backend** | Node.js, Express.js, FastAPI, REST APIs, GraphQL, WebSockets, Microservices Architecture |
+| **Databases & Caching** | PostgreSQL, MySQL, MongoDB, Prisma ORM, Sequelize, Redis |
+| **AI & Intelligent Systems** | LangChain, LangGraph, LangSmith, Retrieval-Augmented Generation (RAG), LLM Integrations |
+| **DevOps & Engineering** | Docker, CI/CD, GitHub Actions, Clean Architecture, Dependency Injection, System Design Principles |
+
+---
+
+## Development Philosophy
+
+> Build it clean.  
+> Design it to scale.  
+> Monitor it like it will fail.  
+> Refactor before it becomes legacy.
+
+---
+
+## Currently Interested In
+
+- High performance applications and websites
+- Scalable backend systems   
+- Real-time communication systems  
+- AI-powered product engineering  
+- Distributed systems design  
+
+---
+
+## Contact
+
+jagadeeswaran.work@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/jagadeeswaran-m-59a269287)
+
+
+If you're building something ambitious, scalable, or technically challenging - I’m interested.
